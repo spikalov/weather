@@ -1,0 +1,31 @@
+.box{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px 10px;
+}
+.form__btn{
+    text-align: center;
+}
+.error{
+    color: red;
+}
+.icon{
+    display: flex;
+}
+.icon img{
+    margin-right: 20px;
+    height: 75px;
+    width: 75px;
+}
+.icon__city{
+    margin: auto 0;
+}
+.field{
+    display: flex;
+    margin: 5px 0;
+    font-size: 16px;
+}
+.field__name{
+    font-weight: 600;
+    margin-right: 6px;
+}
